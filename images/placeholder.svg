@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="400" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eef4ff"/>
+      <stop offset="1" stop-color="#fff0f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <circle cx="200" cy="118" r="36" fill="#ff6b6b" opacity="0.15"/>
+  <path d="M200 92l-28 14 28 14 28-14-28-14z" fill="#ff6b6b" opacity="0.5"/>
+  <path d="M172 106l28 14v28l-28-14v-28z" fill="#4f8cff" opacity="0.4"/>
+  <path d="M228 106l-28 14v28l28-14v-28z" fill="#ff6b6b" opacity="0.35"/>
+  <path d="M120 210h160" stroke="#d1d9e8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M140 210l20-40 40 20 40-30 60 50" stroke="#4f8cff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+  <text x="200" y="248" text-anchor="middle" fill="#9ca3b8" font-family="system-ui, sans-serif" font-size="13" font-weight="500">Image not available</text>
+</svg>

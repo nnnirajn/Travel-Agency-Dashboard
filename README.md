@@ -3,10 +3,6 @@ Hi, I'm a Web UI Developer passionate about crafting modern, responsive, and acc
 # Travel-Agency-Dashboard
 A modern Travel Agency Dashboard built using HTML, CSS, and JavaScript. Features an intuitive user interface for managing bookings, destinations, customer information, and travel analytics. Designed with responsive layouts, smooth animations, and accessibility best practices to provide an engaging user experience across all devices.
 
-## Personal Portfolio Site
-
-Created a complete responsive Travel Agency Dashboard site using HTML5, CSS3, Javascript and Gsap.
-
 ### Live link : https://nnnirajn.github.io/Travel-Agency-Dashboard/
 
 ### Technology used :

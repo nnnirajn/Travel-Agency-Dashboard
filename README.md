@@ -7,7 +7,7 @@ A modern Travel Agency Dashboard built using HTML, CSS, and JavaScript. Features
 
 Created a complete responsive Travel Agency Dashboard site using HTML5, CSS3, Javascript and Gsap.
 
-### Live link : https://nnnirajn.github.io/Portfolio-Website/
+### Live link : https://nnnirajn.github.io/Travel-Agency-Dashboard/
 
 ### Technology used :
 1. HTML5
@@ -21,10 +21,10 @@ Created a complete responsive Travel Agency Dashboard site using HTML5, CSS3, Ja
 
 ### How to Run Project :
 To Run the project, need to open the below link in any browser 
-https://nnnirajn.github.io/Portfolio-Website/
+https://nnnirajn.github.io/Travel-Agency-Dashboard/
 
 ### Small Assumptions :
 1. This is static Dashboard. No APi or backend is added in it.
 
 ### Screenshots :
-Responsive Checker Link : https://ui.dev/amiresponsive?url=https://nnnirajn.github.io/Portfolio-Website/
+Responsive Checker Link : https://ui.dev/amiresponsive?url=https://nnnirajn.github.io/Travel-Agency-Dashboard/
